@@ -1187,7 +1187,6 @@ img{
 	position: absolute;
 	top: 8px;
 	left: 8px;
-	z-index: 1;
 }
 
 .shop-list-like.active{
